@@ -38,4 +38,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 📬 Contact:
 
-Have questions or feedback? Reach out at your-designerfatii@gmail.com.
+Have questions or feedback? Reach out at -designerfatii@gmail.com.
